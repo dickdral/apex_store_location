@@ -1,7 +1,7 @@
 {
   "name" : "Store location",
   "version" : "v1.0",
-  "description" : "Store GPS location in Apex items",
+  "description" : "Store GPS location in APEX items",
   "keywords" : ["mobile","location","GPS","coordinates","dynamic action"],
   "homepage" : "https://github.com/dickdral/apex_store_location",
   "bugs" : {
