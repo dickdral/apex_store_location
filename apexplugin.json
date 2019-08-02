@@ -23,11 +23,11 @@
   "oracle" : {
     "versions" : ["11.2.0.1", "12.1.0.1"],
     "apex" : {
-      "versions" : ["5.0.0","5.1.0"],
+      "versions" : ["5.0.0","5.1.0","18.1.0"],
       "plugin" : {
         "internalName" : "NL.DETORA.APEX.STORELOCATION",
         "type" : "dynamic action",
-        "demo" : "http://www.speech2form.com/ords/f?p=OPFG:STORELOCATION",
+        "demo" : "https://www.speech2form.com/ords/f?p=OPFG:STORELOCATION",
         "previewImage" : "https://raw.githubusercontent.com/dickdral/apex_store_location/master/store_location_example.gif"
       }
     }
