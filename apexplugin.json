@@ -28,7 +28,7 @@
         "internalName" : "NL.DETORA.APEX.STORELOCATION",
         "type" : "dynamic action",
         "demo" : "https://www.speech2form.com/ords/f?p=OPFG:STORELOCATION",
-        "previewImage" : "https://raw.githubusercontent.com/dickdral/apex_store_location/master/store_location_example.gif"
+        "previewImage" : "https://raw.githubusercontent.com/dickdral/apex_store_location/master/store_location_example.png"
       }
     }
   }
